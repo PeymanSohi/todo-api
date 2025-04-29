@@ -1,4 +1,3 @@
-```markdown
 # 📝 Todo App - Fullstack DevOps Project
 
 This project demonstrates how to build, deploy, and manage a simple Todo API using modern DevOps tools. It includes:
@@ -130,6 +129,5 @@ If using a domain, update DNS and configure Nginx.
 
 ---
 
-```
 
 https://roadmap.sh/projects/multi-container-service
